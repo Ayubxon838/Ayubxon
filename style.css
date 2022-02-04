@@ -12,7 +12,7 @@ body {
     color: gold;
 }
 .ayubxon {
-    width: 1800px;
+    width: 100%;
    border-radius: 30px;
    background-size: cover;
 }
@@ -21,9 +21,10 @@ main ul {
     border: 10px double white;
     }
     .ayub {
-        width: 900px;
         background-size: cover;
         border-radius: 10px;
+        width: 49%;
+        height: 250px;
     }
     .a {
         margin: 10px;
@@ -32,7 +33,7 @@ main ul {
         border-radius: 20px;
     }
     .b {
-        width: 1800px;
+        width: 100%;
         border-radius: 20px;
     }
     .c {
@@ -43,4 +44,7 @@ main ul {
         border: 10px double white;
         margin: 10px;
         float: left;
+    }
+    .vidio {
+        margin: 70px;
     }
