@@ -10,6 +10,7 @@ header img {
 body {
     background-color: black;
     color: gold;
+    font-family: 'Roboto', sans-serif;
 }
 .ayubxon {
     width: 100%;
@@ -24,7 +25,6 @@ main ul {
         background-size: cover;
         border-radius: 10px;
         width: 49%;
-        height: 250px;
     }
     .a {
         margin: 10px;
@@ -44,4 +44,9 @@ main ul {
         border: 10px double white;
         margin: 10px;
         float: left;
-}
+    }
+    .limonad {
+        text-align: center;
+        font-size: 40px;
+    }
+    
